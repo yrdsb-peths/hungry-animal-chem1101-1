@@ -24,7 +24,6 @@ public class TitleScreen extends World
         addObject(instruction, 300, 300);
         prepare();
     }
-
     /**
      * The main world loop
      */
