@@ -21,7 +21,7 @@ public class MyWorld extends World
         
         //Creates the elephant object
         Elephant elephant = new Elephant();
-        addObject(elephant,300,350);
+        addObject(elephant,300,330);
         
         //Create a label
         scoreLabel = new Label(0, 80);
